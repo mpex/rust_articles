@@ -18,6 +18,7 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 
 ## Embedded ##
 
+* [SuitabilityOfRust][8] - Suitability of Rust for Embedded Development
 * [RaspberryPiBareMetal][7] - Raspberry Pi Bare Metal Programming with Rust
 
 
@@ -47,3 +48,4 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 [5]: https://doc.rust-lang.org/nightly/nomicon/
 [6]: https://jadpole.github.io/rust/type-system/
 [7]: https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/
+[8]: https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371
