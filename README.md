@@ -5,6 +5,7 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 ## Contents ##
 
 - [Learning](#learning)
+- [Embedded](#embedded)
 - [Web](#web)
 - [Libs](#libs)
 - [Unsorted](#unsorted)
@@ -14,6 +15,9 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 
 * [LinkedLists][1] - Learning Rust With Entirely Too Many Linked Lists
 * [UnsafeLowLevel][2] - Writing Unsafe and Low-Level Code in Rust
+
+## Embedded ##
+
 
 ## Insides ##
 
