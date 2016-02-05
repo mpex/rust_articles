@@ -18,6 +18,8 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 
 ## Embedded ##
 
+* [RaspberryPiBareMetal][7] - Raspberry Pi Bare Metal Programming with Rust
+
 
 ## Insides ##
 
@@ -44,3 +46,4 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 [4]: https://medium.com/@ericdreichert/what-one-must-understand-to-be-productive-with-rust-e9e472116728
 [5]: https://doc.rust-lang.org/nightly/nomicon/
 [6]: https://jadpole.github.io/rust/type-system/
+[7]: https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/
