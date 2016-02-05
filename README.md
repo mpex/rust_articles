@@ -20,6 +20,7 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 
 * [SuitabilityOfRust][8] - Suitability of Rust for Embedded Development
 * [RaspberryPiBareMetal][7] - Raspberry Pi Bare Metal Programming with Rust
+* [zinc.rs][9] - zinc.rs: 'an experimental attempt to write an ARM stack'
 
 
 ## Insides ##
@@ -49,3 +50,4 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 [6]: https://jadpole.github.io/rust/type-system/
 [7]: https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/
 [8]: https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371
+[9]: http://zinc.rs/
