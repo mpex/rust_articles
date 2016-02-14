@@ -15,6 +15,7 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 
 * [LinkedLists][1] - Learning Rust With Entirely Too Many Linked Lists
 * [UnsafeLowLevel][2] - Writing Unsafe and Low-Level Code in Rust
+* [Ownership][10] - Why Rust's ownership/borrowing is hard
 
 ## Embedded ##
 
@@ -51,3 +52,4 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 [7]: https://blog.thiago.me/raspberry-pi-bare-metal-programming-with-rust/
 [8]: https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371
 [9]: http://zinc.rs/
+[10]: http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/
