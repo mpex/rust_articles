@@ -4,18 +4,29 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 
 ## Contents ##
 
+- [Lists](#lists)
 - [Learning](#learning)
+- [Books](#books)
 - [Embedded](#embedded)
 - [Web](#web)
 - [Libs](#libs)
 - [Unsorted](#unsorted)
 
 
+## Lists ##
+* [RustLearning][12] - Big list of useful articles. Same style as this one
+
 ## Learning ##
 
 * [LinkedLists][1] - Learning Rust With Entirely Too Many Linked Lists
 * [UnsafeLowLevel][2] - Writing Unsafe and Low-Level Code in Rust
 * [Ownership][10] - Why Rust's ownership/borrowing is hard
+
+## Books ##
+
+* [RustBook][11] - 'The Rust Programming Language' E-Books
+* [RustEssentials][13] - Book for devs who are new to Rust
+
 
 ## Embedded ##
 
@@ -53,3 +64,6 @@ This is a list of articles, tutorials, etc., concerning the Rustlang that are wo
 [8]: https://users.rust-lang.org/t/suitability-of-rust-for-embedded-development/371
 [9]: http://zinc.rs/
 [10]: http://softwaremaniacs.org/blog/2016/02/12/ownership-borrowing-hard/en/
+[11]: https://killercup.github.io/trpl-ebook/
+[12]: https://github.com/ctjhoa/rust-learning
+[13]: http://www.amazon.de/Rust-Essentials-Ivo-Balbaert/dp/1785285769
